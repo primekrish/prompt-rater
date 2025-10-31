@@ -7,17 +7,16 @@ export default function Footer() {
         <span>
           Made with ❤️ by{" "}
           <a
-            href="https://github.com/primekrish"
+            href="https://github.com/primekris"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary font-medium hover:underline transition-colors"
           >
             PrimeKris
-          </a>{" "}
-          &amp; the PromptRater Team
+          </a>
         </span>
         <a
-          href="https://github.com/primekrish/prompt-rater"
+          href="https://github.com/primekris/prompt-rater"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 hover-elevate active-elevate-2 p-2 rounded-md transition-colors"
