@@ -78,7 +78,10 @@ npm run start
 
 Root Directory: leave empty (it’s the main folder).
 
-Add environment variables if needed (like OPENAI_API_KEY).
+Add environment variables
+
+Key: NODE_ENV
+Value: production
 
 Click Deploy 🚀
 
